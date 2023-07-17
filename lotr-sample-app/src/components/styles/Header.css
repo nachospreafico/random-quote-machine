@@ -1,0 +1,18 @@
+h1 {
+  font-family: Ringbearer;
+  font-size: 5rem;
+  font-weight: 500;
+  color: goldenrod;
+  text-decoration: underline;
+  margin: 0;
+}
+
+.title-detail {
+  font-size: 2rem;
+}
+
+.character-name {
+  font-family: Aniron;
+  color: black;
+  font-size: 2rem;
+}

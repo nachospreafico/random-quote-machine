@@ -1,0 +1,92 @@
+[
+  {
+    "race": "Hobbit",
+    "gender": "Male",
+    "name": "Frodo Baggins",
+    "birth": "The Shire",
+    "age": 50,
+    "description": "A hobbit from the Shire.",
+    "img": "https://static.wikia.nocookie.net/lotr/images/3/32/Frodo_%28FotR%29.png/revision/latest?cb=20221006065757"
+  },
+  {
+    "race": "Hobbit",
+    "gender": "Male",
+    "name": "Samwise Gamgee",
+    "birth": "The Shire",
+    "age": 38,
+    "description": "A hobbit from the Shire.",
+    "img": "https://static.wikia.nocookie.net/lotr/images/9/9d/Samwise_the_Brave.jpg/revision/latest?cb=20090109192224"
+  },
+  {
+    "race": "Hobbit",
+    "gender": "Male",
+    "name": "Bilbo Baggins",
+    "birth": "The Shire",
+    "age": 111,
+    "description": "A hobbit from the Shire.",
+    "img": "https://grist.org/wp-content/uploads/2013/05/big_bilbo_2.jpg"
+  },
+  {
+    "race": "Hobbit",
+    "gender": "Male",
+    "name": "Meriadoc Brandybuck",
+    "birth": "The Shire",
+    "age": 36,
+    "description": "A hobbit from the Shire.",
+    "img": "https://static.wikia.nocookie.net/middlearthfilmseries/images/8/8e/Merry_ROTK_1.jpg/revision/latest?cb=20180920162544"
+  },
+  {
+    "race": "Hobbit",
+    "gender": "Male",
+    "name": "Peregrin Took",
+    "birth": "The Shire",
+    "age": 28,
+    "description": "A hobbit from the Shire.",
+    "img": "https://i.pinimg.com/736x/35/89/c5/358qTYpDkBmuPcNWWXBQqKRpyNYGbtqLaa--billy-boyd-lord-of-the-rings.jpg"
+  },
+  {
+    "race": "Man",
+    "gender": "Male",
+    "name": "Aragorn",
+    "birth": "Eriador",
+    "age": 87,
+    "description": "A Dunedain and true heir of the Throne of Gondor.",
+    "img": "https://i.pinimg.com/originals/6e/60/de/6e60de4bbe7888ecf4932b8ecb777a76.jpg"
+  },
+  {
+    "race": "Man",
+    "gender": "Male",
+    "name": "Boromir",
+    "birth": "Gondor",
+    "age": 40,
+    "description": "A man from Gondor, son of the Steward.",
+    "img": "https://static.wikia.nocookie.net/bibliotecadelatierramedia/images/6/6a/Boromir3.jpg/revision/latest?cb=20140806104642&path-prefix=es"
+  },
+  {
+    "race": "Elf",
+    "gender": "Male",
+    "name": "Legolas",
+    "birth": "Mirkwood",
+    "age": 2000,
+    "description": "An elf from Mirkwood, son of King Thranduil.",
+    "img": "https://fotografias.antena3.com/clipping/cmsimages02/2019/07/29/34F2FAA6-7681-4B7F-81AF-4A783339EDE6/98.jpg?crop=1506,847,x0,y4&width=1900&height=1069&optimize=high&format=webply"
+  },
+  {
+    "race": "Dwarf",
+    "gender": "Male",
+    "name": "Gimli",
+    "birth": "Ered Luin",
+    "age": 139,
+    "description": "A dwarf, son of Gloin, one of Bilbo's 13 companions.",
+    "img": "https://static.posters.cz/image/750/art-photo/gimli-i142873.jpg"
+  },
+  {
+    "race": "Wizard",
+    "gender": "Male",
+    "name": "Gandalf the Grey",
+    "birth": "Valinor",
+    "age": 2000,
+    "description": "An Istari, one of the Wizards sent to Middle-Earth to help fight the Dark Lord Sauron.",
+    "img": "https://static.wikia.nocookie.net/p__/images/b/b0/GandalfTheGrey.jpg/revision/latest?cb=20220418185715&path-prefix=protagonist"
+  }
+]

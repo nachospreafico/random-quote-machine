@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Ringbearer;
+  src: url("./../src/assets/fonts/Ringbearer.TTF");
+}
+
+@font-face {
+  font-family: Aniron;
+  src: url("./../src/assets/fonts/Aniron.ttf");
+}
+
+body {
+  margin: 0;
+}
